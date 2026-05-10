@@ -4,7 +4,7 @@
 import json
 import os
 
-THEMES_DIR = os.path.expanduser("~/.config/zed/themes")
+THEMES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "themes")
 
 def hex_to_rgb(hex_color):
     h = hex_color.lstrip("#")
@@ -1460,10 +1460,6 @@ def main():
         count += 1
 
     print(f"\nGenerated {count} theme files ({count * 2} themes) in {THEMES_DIR}")
-    print("\nTo use a theme in Zed:")
-    print("  1. Open Zed")
-    print("  2. Press Ctrl+K Ctrl+T (or Cmd+K Cmd+T on macOS)")
-    print("  3. Search for 'Palette Masters' or the artist name")
 
 
 if __name__ == "__main__":

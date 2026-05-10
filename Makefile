@@ -14,7 +14,6 @@ uninstall:
 
 generate:
 	@python3 generate.py
-	@echo "Themes regenerated in $(THEMES_DIR)"
 
 list:
 	@python3 -c "\

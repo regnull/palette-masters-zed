@@ -1,0 +1,7 @@
+id = "palette-masters"
+name = "Palette Masters"
+version = "0.0.1"
+schema_version = 1
+authors = ["regnull"]
+description = "46 color themes inspired by the master palettes of history's most influential painters"
+repository = "https://github.com/regnull/palette-masters-zed"
