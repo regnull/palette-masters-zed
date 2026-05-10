@@ -4,6 +4,8 @@ A collection of 46 Zed editor themes inspired by the master palettes of history'
 
 Every artist comes in **dark** and **light** variants.
 
+![Van Gogh — Starry Night (dark)](screenshots/van-gogh-starry-night-dark.png)
+
 ## Artists
 
 | Artist | Dark Theme | Light Theme |
