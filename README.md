@@ -6,51 +6,97 @@ Every artist comes in **dark** and **light** variants.
 
 ## Theme Samples
 
+### Monet
 ![Monet — Veiled Parchment](samples/monet.svg)
+![Monet Light — Veiled Parchment](samples/monet-light.svg)
 
+### Van Gogh
 ![Van Gogh — Veiled Tawny](samples/van-gogh.svg)
+![Van Gogh Light — Veiled Tawny](samples/van-gogh-light.svg)
 
+### Matisse
 ![Matisse — Muted Tawny](samples/matisse.svg)
+![Matisse Light — Muted Tawny](samples/matisse-light.svg)
 
+### Renoir
 ![Renoir — Muted Caramel](samples/renoir.svg)
+![Renoir Light — Muted Caramel](samples/renoir-light.svg)
 
+### Pissarro
 ![Pissarro — Veiled Tawny](samples/pissarro.svg)
+![Pissarro Light — Veiled Tawny](samples/pissarro-light.svg)
 
+### Roerich
 ![Roerich — Dimmed Parchment](samples/roerich.svg)
+![Roerich Light — Dimmed Parchment](samples/roerich-light.svg)
 
+### Sargent
 ![Sargent — Shadowed Tawny](samples/sargent.svg)
+![Sargent Light — Shadowed Tawny](samples/sargent-light.svg)
 
+### Aivazovsky
 ![Aivazovsky — Veiled Parchment](samples/aivazovsky.svg)
+![Aivazovsky Light — Veiled Parchment](samples/aivazovsky-light.svg)
 
+### Cézanne
 ![Cézanne — Penumbral Tawny](samples/cezanne.svg)
+![Cézanne Light — Penumbral Tawny](samples/cezanne-light.svg)
 
+### Degas
 ![Degas — Shadowed Gamboge](samples/degas.svg)
+![Degas Light — Shadowed Gamboge](samples/degas-light.svg)
 
+### Da Vinci
 ![Da Vinci — Veiled Tawny](samples/da-vinci.svg)
+![Da Vinci Light — Veiled Tawny](samples/da-vinci-light.svg)
 
+### Rembrandt
 ![Rembrandt — Shadowed Bister](samples/rembrandt.svg)
+![Rembrandt Light — Shadowed Bister](samples/rembrandt-light.svg)
 
+### Picasso
 ![Picasso — Muted Tawny](samples/picasso.svg)
+![Picasso Light — Muted Tawny](samples/picasso-light.svg)
 
+### Vermeer
 ![Vermeer — Shadowed Bister](samples/vermeer.svg)
+![Vermeer Light — Shadowed Bister](samples/vermeer-light.svg)
 
+### Turner
 ![Turner — Veiled Tawny](samples/turner.svg)
+![Turner Light — Veiled Tawny](samples/turner-light.svg)
 
+### Klimt
 ![Klimt — Muted Tawny](samples/klimt.svg)
+![Klimt Light — Muted Tawny](samples/klimt-light.svg)
 
+### Kandinsky
 ![Kandinsky — Muted Tawny](samples/kandinsky.svg)
+![Kandinsky Light — Muted Tawny](samples/kandinsky-light.svg)
 
+### Gauguin
 ![Gauguin — Shadowed Caramel](samples/gauguin.svg)
+![Gauguin Light — Shadowed Caramel](samples/gauguin-light.svg)
 
+### Caravaggio
 ![Caravaggio — Nocturnal Bister](samples/caravaggio.svg)
+![Caravaggio Light — Nocturnal Bister](samples/caravaggio-light.svg)
 
+### Raphael
 ![Raphael — Shadowed Tawny](samples/raphael.svg)
+![Raphael Light — Shadowed Tawny](samples/raphael-light.svg)
 
+### Munch
 ![Munch — Muted Tawny](samples/munch.svg)
+![Munch Light — Muted Tawny](samples/munch-light.svg)
 
+### Velázquez
 ![Velázquez — Nocturnal Bister](samples/velazquez.svg)
+![Velázquez Light — Nocturnal Bister](samples/velazquez-light.svg)
 
+### Hokusai
 ![Hokusai — Soft Ecru](samples/hokusai.svg)
+![Hokusai Light — Soft Ecru](samples/hokusai-light.svg)
 
 ## Artists
 

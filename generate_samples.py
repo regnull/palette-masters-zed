@@ -5,7 +5,7 @@ import html
 import os
 import re
 
-from generate import ARTISTS
+from generate import ARTISTS, derive_light_artist
 
 SAMPLES_DIR = os.path.join(os.path.dirname(__file__), "samples")
 
@@ -276,13 +276,25 @@ def build_svg(artist):
 
 def main():
     os.makedirs(SAMPLES_DIR, exist_ok=True)
+    count = 0
     for artist in ARTISTS:
+        # Dark variant.
         svg = build_svg(artist)
         path = os.path.join(SAMPLES_DIR, f"{artist['id']}.svg")
         with open(path, "w") as f:
             f.write(svg)
         print(f"  {path}")
-    print(f"\nGenerated {len(ARTISTS)} SVG samples in {SAMPLES_DIR}/")
+
+        # Light variant.
+        light = derive_light_artist(artist)
+        svg = build_svg(light)
+        path = os.path.join(SAMPLES_DIR, f"{artist['id']}-light.svg")
+        with open(path, "w") as f:
+            f.write(svg)
+        print(f"  {path}")
+
+        count += 2
+    print(f"\nGenerated {count} SVG samples in {SAMPLES_DIR}/")
 
 
 if __name__ == "__main__":
