@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Aivazovsky \u2014 The Ninth Wave",
+      "name": "Aivazovsky \u2014 Veiled Parchment",
       "appearance": "dark",
       "style": {
         "background": "#171716",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Aivazovsky Light \u2014 The Ninth Wave",
+      "name": "Aivazovsky Light \u2014 Veiled Parchment",
       "appearance": "light",
       "style": {
         "background": "#f7f7f4",

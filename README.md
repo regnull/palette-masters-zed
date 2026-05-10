@@ -4,35 +4,35 @@ A collection of 46 Zed editor themes inspired by the master palettes of history'
 
 Every artist comes in **dark** and **light** variants.
 
-![Van Gogh — Starry Night (dark)](screenshots/van-gogh-starry-night-dark.png)
+![Van Gogh — Veiled Tawny (dark)](screenshots/van-gogh-starry-night-dark.png)
 
 ## Artists
 
 | Artist | Dark Theme | Light Theme |
 |---|---|---|
-| Claude Monet | Monet — Water Lilies | Monet Light — Water Lilies |
-| Vincent van Gogh | Van Gogh — Starry Night | Van Gogh Light — Starry Night |
-| Henri Matisse | Matisse — The Dance | Matisse Light — The Dance |
-| Pierre-Auguste Renoir | Renoir — Luncheon of the Boating Party | Renoir Light — Luncheon of the Boating Party |
-| Camille Pissarro | Pissarro — Boulevard Montmartre | Pissarro Light — Boulevard Montmartre |
-| Nicholas Roerich | Roerich — Himalayas | Roerich Light — Himalayas |
-| John Singer Sargent | Sargent — Madame X | Sargent Light — Madame X |
-| Ivan Aivazovsky | Aivazovsky — The Ninth Wave | Aivazovsky Light — The Ninth Wave |
-| Paul Cezanne | Cezanne — Mont Sainte-Victoire | Cezanne Light — Mont Sainte-Victoire |
-| Edgar Degas | Degas — The Ballet Class | Degas Light — The Ballet Class |
-| Leonardo da Vinci | Da Vinci — Mona Lisa | Da Vinci Light — Mona Lisa |
-| Rembrandt | Rembrandt — The Night Watch | Rembrandt Light — The Night Watch |
-| Pablo Picasso | Picasso — Guernica | Picasso Light — Guernica |
-| Johannes Vermeer | Vermeer — Girl with a Pearl Earring | Vermeer Light — Girl with a Pearl Earring |
-| J.M.W. Turner | Turner — The Fighting Temeraire | Turner Light — The Fighting Temeraire |
-| Gustav Klimt | Klimt — The Kiss | Klimt Light — The Kiss |
-| Wassily Kandinsky | Kandinsky — Composition VIII | Kandinsky Light — Composition VIII |
-| Paul Gauguin | Gauguin — Where Do We Come From? | Gauguin Light — Where Do We Come From? |
-| Caravaggio | Caravaggio — Judith Beheading Holofernes | Caravaggio Light — Judith Beheading Holofernes |
-| Raphael | Raphael — The School of Athens | Raphael Light — The School of Athens |
-| Edvard Munch | Munch — The Scream | Munch Light — The Scream |
-| Diego Velazquez | Velazquez — Las Meninas | Velazquez Light — Las Meninas |
-| Katsushika Hokusai | Hokusai — The Great Wave | Hokusai Light — The Great Wave |
+| Claude Monet | Monet — Veiled Parchment | Monet Light — Veiled Parchment |
+| Vincent van Gogh | Van Gogh — Veiled Tawny | Van Gogh Light — Veiled Tawny |
+| Henri Matisse | Matisse — Muted Tawny | Matisse Light — Muted Tawny |
+| Pierre-Auguste Renoir | Renoir — Muted Caramel | Renoir Light — Muted Caramel |
+| Camille Pissarro | Pissarro — Veiled Tawny | Pissarro Light — Veiled Tawny |
+| Nicholas Roerich | Roerich — Dimmed Parchment | Roerich Light — Dimmed Parchment |
+| John Singer Sargent | Sargent — Shadowed Tawny | Sargent Light — Shadowed Tawny |
+| Ivan Aivazovsky | Aivazovsky — Veiled Parchment | Aivazovsky Light — Veiled Parchment |
+| Paul Cezanne | Cézanne — Penumbral Tawny | Cézanne Light — Penumbral Tawny |
+| Edgar Degas | Degas — Shadowed Gamboge | Degas Light — Shadowed Gamboge |
+| Leonardo da Vinci | Da Vinci — Veiled Tawny | Da Vinci Light — Veiled Tawny |
+| Rembrandt | Rembrandt — Shadowed Bister | Rembrandt Light — Shadowed Bister |
+| Pablo Picasso | Picasso — Muted Tawny | Picasso Light — Muted Tawny |
+| Johannes Vermeer | Vermeer — Shadowed Bister | Vermeer Light — Shadowed Bister |
+| J.M.W. Turner | Turner — Veiled Tawny | Turner Light — Veiled Tawny |
+| Gustav Klimt | Klimt — Muted Tawny | Klimt Light — Muted Tawny |
+| Wassily Kandinsky | Kandinsky — Muted Tawny | Kandinsky Light — Muted Tawny |
+| Paul Gauguin | Gauguin — Shadowed Caramel | Gauguin Light — Shadowed Caramel |
+| Caravaggio | Caravaggio — Nocturnal Bister | Caravaggio Light — Nocturnal Bister |
+| Raphael | Raphael — Shadowed Tawny | Raphael Light — Shadowed Tawny |
+| Edvard Munch | Munch — Muted Tawny | Munch Light — Muted Tawny |
+| Diego Velazquez | Velázquez — Nocturnal Bister | Velázquez Light — Nocturnal Bister |
+| Katsushika Hokusai | Hokusai — Soft Ecru | Hokusai Light — Soft Ecru |
 
 ## Installation
 
@@ -68,8 +68,8 @@ To automatically switch between an artist's light and dark theme based on your s
 {
   "theme": {
     "mode": "system",
-    "dark": "Monet — Water Lilies",
-    "light": "Monet Light — Water Lilies"
+    "dark": "Monet — Veiled Parchment",
+    "light": "Monet Light — Veiled Parchment"
   }
 }
 ```

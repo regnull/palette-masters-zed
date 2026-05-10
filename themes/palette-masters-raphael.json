@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Raphael \u2014 The School of Athens",
+      "name": "Raphael \u2014 Shadowed Tawny",
       "appearance": "dark",
       "style": {
         "background": "#131110",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Raphael Light \u2014 The School of Athens",
+      "name": "Raphael Light \u2014 Shadowed Tawny",
       "appearance": "light",
       "style": {
         "background": "#f9f7f4",

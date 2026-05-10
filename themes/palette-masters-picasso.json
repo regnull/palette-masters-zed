@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Picasso \u2014 Guernica",
+      "name": "Picasso \u2014 Muted Tawny",
       "appearance": "dark",
       "style": {
         "background": "#181515",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Picasso Light \u2014 Guernica",
+      "name": "Picasso Light \u2014 Muted Tawny",
       "appearance": "light",
       "style": {
         "background": "#f7f3ee",

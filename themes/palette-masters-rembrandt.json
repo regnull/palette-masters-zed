@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Rembrandt \u2014 The Night Watch",
+      "name": "Rembrandt \u2014 Shadowed Bister",
       "appearance": "dark",
       "style": {
         "background": "#0f0c0b",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Rembrandt Light \u2014 The Night Watch",
+      "name": "Rembrandt Light \u2014 Shadowed Bister",
       "appearance": "light",
       "style": {
         "background": "#f6f3ee",

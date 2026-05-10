@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Munch \u2014 The Scream",
+      "name": "Munch \u2014 Muted Tawny",
       "appearance": "dark",
       "style": {
         "background": "#161414",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Munch Light \u2014 The Scream",
+      "name": "Munch Light \u2014 Muted Tawny",
       "appearance": "light",
       "style": {
         "background": "#f6f4f1",

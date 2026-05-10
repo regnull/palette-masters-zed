@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Vermeer \u2014 Girl with a Pearl Earring",
+      "name": "Vermeer \u2014 Shadowed Bister",
       "appearance": "dark",
       "style": {
         "background": "#131216",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Vermeer Light \u2014 Girl with a Pearl Earring",
+      "name": "Vermeer Light \u2014 Shadowed Bister",
       "appearance": "light",
       "style": {
         "background": "#f6f5f2",

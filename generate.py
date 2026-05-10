@@ -36,7 +36,7 @@ ARTISTS = [
     {
         "id": "monet",
         "name": "Monet",
-        "theme_name": "Monet — Water Lilies",
+        "theme_name": "Monet — Veiled Parchment",
         "subtitle": "Inspired by Claude Monet's luminous impressionism",
         "appearance": "dark",
         "bg": "#1c1c1f",
@@ -80,7 +80,7 @@ ARTISTS = [
     {
         "id": "van-gogh",
         "name": "Van Gogh",
-        "theme_name": "Van Gogh — Starry Night",
+        "theme_name": "Van Gogh — Veiled Tawny",
         "subtitle": "Inspired by Vincent van Gogh's bold post-impressionism",
         "appearance": "dark",
         "bg": "#161210",
@@ -124,7 +124,7 @@ ARTISTS = [
     {
         "id": "matisse",
         "name": "Matisse",
-        "theme_name": "Matisse — The Dance",
+        "theme_name": "Matisse — Muted Tawny",
         "subtitle": "Inspired by Henri Matisse's bold fauvism",
         "appearance": "dark",
         "bg": "#222020",
@@ -168,7 +168,7 @@ ARTISTS = [
     {
         "id": "renoir",
         "name": "Renoir",
-        "theme_name": "Renoir — Luncheon of the Boating Party",
+        "theme_name": "Renoir — Muted Caramel",
         "subtitle": "Inspired by Pierre-Auguste Renoir's sun-dappled warmth",
         "appearance": "dark",
         "bg": "#1a1614",
@@ -212,7 +212,7 @@ ARTISTS = [
     {
         "id": "pissarro",
         "name": "Pissarro",
-        "theme_name": "Pissarro — Boulevard Montmartre",
+        "theme_name": "Pissarro — Veiled Tawny",
         "subtitle": "Inspired by Camille Pissarro's naturalistic impressionism",
         "appearance": "dark",
         "bg": "#181614",
@@ -256,7 +256,7 @@ ARTISTS = [
     {
         "id": "roerich",
         "name": "Roerich",
-        "theme_name": "Roerich — Himalayas",
+        "theme_name": "Roerich — Dimmed Parchment",
         "subtitle": "Inspired by Nicholas Roerich's mystical mountain visions",
         "appearance": "dark",
         "bg": "#262224",
@@ -300,7 +300,7 @@ ARTISTS = [
     {
         "id": "sargent",
         "name": "Sargent",
-        "theme_name": "Sargent — Madame X",
+        "theme_name": "Sargent — Shadowed Tawny",
         "subtitle": "Inspired by John Singer Sargent's dramatic portraiture",
         "appearance": "dark",
         "bg": "#110e12",
@@ -344,7 +344,7 @@ ARTISTS = [
     {
         "id": "aivazovsky",
         "name": "Aivazovsky",
-        "theme_name": "Aivazovsky — The Ninth Wave",
+        "theme_name": "Aivazovsky — Veiled Parchment",
         "subtitle": "Inspired by Ivan Aivazovsky's dramatic seascapes",
         "appearance": "dark",
         "bg": "#171716",
@@ -388,7 +388,7 @@ ARTISTS = [
     {
         "id": "cezanne",
         "name": "Cézanne",
-        "theme_name": "Cézanne — Mont Sainte-Victoire",
+        "theme_name": "Cézanne — Penumbral Tawny",
         "subtitle": "Inspired by Paul Cézanne's structured post-impressionism",
         "appearance": "dark",
         "bg": "#141214",
@@ -432,7 +432,7 @@ ARTISTS = [
     {
         "id": "degas",
         "name": "Degas",
-        "theme_name": "Degas — The Ballet Class",
+        "theme_name": "Degas — Shadowed Gamboge",
         "subtitle": "Inspired by Edgar Degas's intimate ballet scenes",
         "appearance": "dark",
         "bg": "#181414",
@@ -477,7 +477,7 @@ ARTISTS = [
     {
         "id": "da-vinci",
         "name": "Leonardo da Vinci",
-        "theme_name": "Da Vinci — Mona Lisa",
+        "theme_name": "Da Vinci — Veiled Tawny",
         "subtitle": "Inspired by Leonardo da Vinci's Renaissance mastery",
         "appearance": "dark",
         "bg": "#141210",
@@ -521,7 +521,7 @@ ARTISTS = [
     {
         "id": "rembrandt",
         "name": "Rembrandt",
-        "theme_name": "Rembrandt — The Night Watch",
+        "theme_name": "Rembrandt — Shadowed Bister",
         "subtitle": "Inspired by Rembrandt's dramatic chiaroscuro",
         "appearance": "dark",
         "bg": "#0f0c0b",
@@ -565,7 +565,7 @@ ARTISTS = [
     {
         "id": "picasso",
         "name": "Picasso",
-        "theme_name": "Picasso — Guernica",
+        "theme_name": "Picasso — Muted Tawny",
         "subtitle": "Inspired by Pablo Picasso's revolutionary cubism",
         "appearance": "dark",
         "bg": "#181515",
@@ -609,7 +609,7 @@ ARTISTS = [
     {
         "id": "vermeer",
         "name": "Vermeer",
-        "theme_name": "Vermeer — Girl with a Pearl Earring",
+        "theme_name": "Vermeer — Shadowed Bister",
         "subtitle": "Inspired by Johannes Vermeer's luminous interiors",
         "appearance": "dark",
         "bg": "#131216",
@@ -653,7 +653,7 @@ ARTISTS = [
     {
         "id": "turner",
         "name": "Turner",
-        "theme_name": "Turner — The Fighting Temeraire",
+        "theme_name": "Turner — Veiled Tawny",
         "subtitle": "Inspired by J.M.W. Turner's atmospheric luminism",
         "appearance": "dark",
         "bg": "#1a1810",
@@ -697,7 +697,7 @@ ARTISTS = [
     {
         "id": "klimt",
         "name": "Klimt",
-        "theme_name": "Klimt — The Kiss",
+        "theme_name": "Klimt — Muted Tawny",
         "subtitle": "Inspired by Gustav Klimt's gilded art nouveau",
         "appearance": "dark",
         "bg": "#1e1a18",
@@ -741,7 +741,7 @@ ARTISTS = [
     {
         "id": "kandinsky",
         "name": "Kandinsky",
-        "theme_name": "Kandinsky — Composition VIII",
+        "theme_name": "Kandinsky — Muted Tawny",
         "subtitle": "Inspired by Wassily Kandinsky's abstract expressionism",
         "appearance": "dark",
         "bg": "#181616",
@@ -785,7 +785,7 @@ ARTISTS = [
     {
         "id": "gauguin",
         "name": "Gauguin",
-        "theme_name": "Gauguin — Where Do We Come From?",
+        "theme_name": "Gauguin — Shadowed Caramel",
         "subtitle": "Inspired by Paul Gauguin's vivid post-impressionism",
         "appearance": "dark",
         "bg": "#181414",
@@ -829,7 +829,7 @@ ARTISTS = [
     {
         "id": "caravaggio",
         "name": "Caravaggio",
-        "theme_name": "Caravaggio — Judith Beheading Holofernes",
+        "theme_name": "Caravaggio — Nocturnal Bister",
         "subtitle": "Inspired by Caravaggio's intense tenebrism",
         "appearance": "dark",
         "bg": "#0d0b0a",
@@ -873,7 +873,7 @@ ARTISTS = [
     {
         "id": "raphael",
         "name": "Raphael",
-        "theme_name": "Raphael — The School of Athens",
+        "theme_name": "Raphael — Shadowed Tawny",
         "subtitle": "Inspired by Raphael's harmonious Renaissance ideals",
         "appearance": "dark",
         "bg": "#131110",
@@ -917,7 +917,7 @@ ARTISTS = [
     {
         "id": "munch",
         "name": "Munch",
-        "theme_name": "Munch — The Scream",
+        "theme_name": "Munch — Muted Tawny",
         "subtitle": "Inspired by Edvard Munch's raw expressionism",
         "appearance": "dark",
         "bg": "#161414",
@@ -961,7 +961,7 @@ ARTISTS = [
     {
         "id": "velazquez",
         "name": "Velázquez",
-        "theme_name": "Velázquez — Las Meninas",
+        "theme_name": "Velázquez — Nocturnal Bister",
         "subtitle": "Inspired by Diego Velázquez's masterful realism",
         "appearance": "dark",
         "bg": "#0e0c0b",
@@ -1005,7 +1005,7 @@ ARTISTS = [
     {
         "id": "hokusai",
         "name": "Hokusai",
-        "theme_name": "Hokusai — The Great Wave",
+        "theme_name": "Hokusai — Soft Ecru",
         "subtitle": "Inspired by Katsushika Hokusai's ukiyo-e woodblock prints",
         "appearance": "dark",
         "bg": "#181818",

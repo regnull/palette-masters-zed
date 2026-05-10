@@ -4,7 +4,7 @@
   "author": "Palette Inspiration (paletteinspiration.com)",
   "themes": [
     {
-      "name": "Sargent \u2014 Madame X",
+      "name": "Sargent \u2014 Shadowed Tawny",
       "appearance": "dark",
       "style": {
         "background": "#110e12",
@@ -309,7 +309,7 @@
       }
     },
     {
-      "name": "Sargent Light \u2014 Madame X",
+      "name": "Sargent Light \u2014 Shadowed Tawny",
       "appearance": "light",
       "style": {
         "background": "#f7f5f4",
