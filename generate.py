@@ -1072,28 +1072,29 @@ def for_light_bg(hex_color, max_lum=0.38):
     )
 
 
-def tint_light_bg(hex_color, amount=0.06):
-    """Create a light background tinted by the given color."""
+def blend_to_white(hex_color, factor=0.80):
+    """Blend a color toward white, preserving its hue character.
+
+    factor=0 returns the original color, factor=1 returns pure white.
+    """
     r, g, b = hex_to_rgb(hex_color)
-    # Blend toward white with just a hint of the source color
-    base = 245
-    return rgb_to_hex(
-        base + (r / 255 - 0.5) * amount * 255,
-        base + (g / 255 - 0.5) * amount * 255,
-        base + (b / 255 - 0.5) * amount * 255,
-    )
+    r = r + (255 - r) * factor
+    g = g + (255 - g) * factor
+    b = b + (255 - b) * factor
+    return rgb_to_hex(r, g, b)
 
 
 def derive_light_artist(dark):
     """Derive a light theme variant from a dark theme definition."""
-    # Use the dark theme's text color (warm/cool tinted) to derive backgrounds
-    warm_tint = dark["text"]
+    # Use the dark theme's text color (the lightest palette color) to derive
+    # tinted backgrounds. Each artist gets a distinctly warm/cool/golden bg.
+    palette_light = dark["text"]
 
-    # Backgrounds: warm-tinted near-whites
-    bg = tint_light_bg(warm_tint, 0.08)
-    editor_bg = tint_light_bg(warm_tint, 0.04)  # Slightly brighter
-    surface = darken(bg, 0.04)
-    elevated = lighten(bg, 0.03)
+    # Backgrounds: blend the lightest palette color toward white
+    bg = blend_to_white(palette_light, 0.80)
+    editor_bg = blend_to_white(palette_light, 0.86)
+    surface = blend_to_white(palette_light, 0.74)
+    elevated = blend_to_white(palette_light, 0.90)
 
     # Text: dark, from the palette
     text = for_light_bg(dark["text"], 0.15)
