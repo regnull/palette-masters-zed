@@ -4,7 +4,53 @@ A collection of 46 Zed editor themes inspired by the master palettes of history'
 
 Every artist comes in **dark** and **light** variants.
 
-![Van Gogh — Veiled Tawny (dark)](screenshots/van-gogh-starry-night-dark.png)
+## Theme Samples
+
+![Monet — Veiled Parchment](samples/monet.svg)
+
+![Van Gogh — Veiled Tawny](samples/van-gogh.svg)
+
+![Matisse — Muted Tawny](samples/matisse.svg)
+
+![Renoir — Muted Caramel](samples/renoir.svg)
+
+![Pissarro — Veiled Tawny](samples/pissarro.svg)
+
+![Roerich — Dimmed Parchment](samples/roerich.svg)
+
+![Sargent — Shadowed Tawny](samples/sargent.svg)
+
+![Aivazovsky — Veiled Parchment](samples/aivazovsky.svg)
+
+![Cézanne — Penumbral Tawny](samples/cezanne.svg)
+
+![Degas — Shadowed Gamboge](samples/degas.svg)
+
+![Da Vinci — Veiled Tawny](samples/da-vinci.svg)
+
+![Rembrandt — Shadowed Bister](samples/rembrandt.svg)
+
+![Picasso — Muted Tawny](samples/picasso.svg)
+
+![Vermeer — Shadowed Bister](samples/vermeer.svg)
+
+![Turner — Veiled Tawny](samples/turner.svg)
+
+![Klimt — Muted Tawny](samples/klimt.svg)
+
+![Kandinsky — Muted Tawny](samples/kandinsky.svg)
+
+![Gauguin — Shadowed Caramel](samples/gauguin.svg)
+
+![Caravaggio — Nocturnal Bister](samples/caravaggio.svg)
+
+![Raphael — Shadowed Tawny](samples/raphael.svg)
+
+![Munch — Muted Tawny](samples/munch.svg)
+
+![Velázquez — Nocturnal Bister](samples/velazquez.svg)
+
+![Hokusai — Soft Ecru](samples/hokusai.svg)
 
 ## Artists
 

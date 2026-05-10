@@ -1,6 +1,6 @@
 THEMES_DIR := $(HOME)/.config/zed/themes
 
-.PHONY: install uninstall generate list
+.PHONY: install uninstall generate list samples
 
 install:
 	@mkdir -p $(THEMES_DIR)
@@ -21,3 +21,6 @@ list:
 	import json, glob, os; \
 	files = sorted(glob.glob('themes/*.json')); \
 	[print(t['name']) for f in files for t in json.load(open(f))['themes']]"
+
+samples:
+	@python3 generate_samples.py
