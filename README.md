@@ -34,31 +34,28 @@ Every artist comes in **dark** and **light** variants.
 
 ## Installation
 
-### Manual Install
-
-1. Copy all `.json` files from the `themes/` directory to your Zed themes folder:
-
-   ```bash
-   # macOS
-   cp themes/*.json ~/.config/zed/themes/
-
-   # Linux
-   cp themes/*.json ~/.config/zed/themes/
-   ```
-
-2. Open Zed (or restart it if already open).
-
-3. Open the theme picker with `Cmd+K Cmd+T` (macOS) or `Ctrl+K Ctrl+T` (Linux).
-
-4. Search for **"Palette Masters"** or any artist name (e.g. "Monet", "Van Gogh").
-
-### One-liner
+### From source
 
 ```bash
-# macOS / Linux
+git clone https://github.com/regnull/palette-masters-zed.git
+cd palette-masters-zed
+make install
+```
+
+### One-liner (no clone)
+
+```bash
 mkdir -p ~/.config/zed/themes && \
   curl -sL https://github.com/regnull/palette-masters-zed/archive/refs/heads/main.tar.gz | \
   tar xz --strip-components=2 -C ~/.config/zed/themes "palette-masters-zed-main/themes/"
+```
+
+Then open Zed (or restart it), press `Cmd+K Cmd+T` (macOS) or `Ctrl+K Ctrl+T` (Linux), and search for **"Palette Masters"** or any artist name.
+
+### Uninstall
+
+```bash
+make uninstall
 ```
 
 ### Auto Light/Dark Switching
